@@ -13,3 +13,7 @@ I used Python for data cleaning and analysis, along with Power BI to create some
 The goal here was to provide insights that could help job seekers know where the opportunities are and what skills they should focus on. It’s also helpful for businesses to see which areas are more competitive in terms of hiring.
 
 This was a fun project to work on because it gave me a better understanding of how data analysis can be applied to real-world scenarios, especially in a space as dynamic as the job market.
+
+This is the dashboard i created in Power Bi
+
+![image alt](https://github.com/Anisha9886/Job-Market-Analysis/blob/b7c952d79e6dff2a873fa46e70f80145cd2d78be/Screenshot%202025-01-08%20190647.png)
