@@ -17,3 +17,4 @@ This was a fun project to work on because it gave me a better understanding of h
 This is the dashboard i created in Power Bi
 
 ![image alt](https://github.com/Anisha9886/Job-Market-Analysis/blob/b7c952d79e6dff2a873fa46e70f80145cd2d78be/Screenshot%202025-01-08%20190647.png)
+![image alt](https://github.com/Anisha9886/Job-Market-Analysis/blob/8bc7262a214b6aed791a3239e0957bd8bebecac8/Screenshot%202025-01-08%20191052.png)
